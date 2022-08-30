@@ -1,56 +1,38 @@
-Contribution: 2019-02-13 20:00
+# LinkedIn Clone Project
 
-Contribution: 2019-02-13 20:01
+[Live Demo](https://linkedin-clone-app-fc849.web.app/)
+:neckbeard:
 
-Contribution: 2019-02-17 20:00
+![](https://i.ibb.co/4J5v9Jc/LinkedIn.png)
 
-Contribution: 2019-02-26 20:00
+## Installing
 
-Contribution: 2019-02-26 20:01
+You will need **node** and **npm** installed on your machine.
 
-Contribution: 2019-02-27 20:00
+#### Install all the project's dependencies:
 
-Contribution: 2019-02-27 20:01
+`npm install` or `yarn install`
 
-Contribution: 2019-03-10 20:00
+#### Once that's done, run the project:
 
-Contribution: 2019-03-10 20:01
+`npm start` or `yarn start`
 
-Contribution: 2019-03-19 20:00
+Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
-Contribution: 2019-03-29 20:00
+## Deployment
 
-Contribution: 2019-03-29 20:01
+If you want to deploy project via firebase. Follow [these](https://firebase.google.com/docs/hosting) steps.
 
-Contribution: 2019-03-29 20:02
+## Built With
 
-Contribution: 2019-04-09 20:00
+- [React](https://reactjs.org/) - Javascript Library for creating UI.
 
-Contribution: 2019-05-19 20:00
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
-Contribution: 2019-06-07 20:00
+- [React Redux](https://react-redux.js.org/) - React Redux lets your React components read data from a Redux store, and dispatch actions to the store to update state.
 
-Contribution: 2019-06-20 20:00
+- [Material-ui](https://material-ui.com/) - React components for faster and easier web development, based on Material Design.
 
-Contribution: 2019-06-20 20:01
+- [React-flip-move](https://github.com/joshwcomeau/react-flip-move) - Animating a list of items.
 
-Contribution: 2019-07-08 20:00
-
-Contribution: 2019-07-14 20:00
-
-Contribution: 2019-07-14 20:01
-
-Contribution: 2019-07-14 20:02
-
-Contribution: 2019-07-20 20:00
-
-Contribution: 2019-08-16 20:00
-
-Contribution: 2019-08-16 20:01
-
-Contribution: 2019-08-17 20:00
-
-Contribution: 2019-08-17 20:01
-
-Contribution: 2019-08-17 20:02
-
+- Much More...✌
